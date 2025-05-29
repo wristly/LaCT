@@ -4,7 +4,7 @@
 
 ## Minimal Implementations
 
-We provide minimal implements for a LaCT layer in `minimal_implementations/`
+We provide minimal implementations for a LaCT layer in `minimal_implementations/`
 
 
 ## Plans
