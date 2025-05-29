@@ -1,6 +1,6 @@
 # Code Release for Paper "Test-Time Training Done Right" 
 
-**Project website:** https://test-time-training.github.io/
+**Project website:** https://tianyuanzhang.com/projects/ttt-done-right/
 
 ## Minimal Implementations
 
